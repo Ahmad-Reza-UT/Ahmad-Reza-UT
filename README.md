@@ -1,8 +1,8 @@
  Hi, I’m Ahmad Reza Parsi Zadeh.
- I'm Bachelor Student of Computer Engineering at the university of Tehran.<br /> 
- I'm currently a Penetration Tester, senior C/C++ and Python developer.
- I specialize at Configuring Cisco devices such as Routers and Switches, Penetration Testing with Kali (pwk).<br />
- I also intreseted in DevSecOps, Machine Learning and Cryptoography.
+ You can see a brief summary of my educcations and abilities below:
+ - Cyberseucirty Intern at Rochester Institute of Technology and Bachelor Student of Computer Engineering at the university of Tehran.<br /> 
+ - Penetration Tester, senior C/C++ and Python developer.<br />
+ - Intreseted in DevSecOps, Machine Learning and Cryptoography.<br />
  You can contact with me via these links which are mentioned below :
  
   LinkedIn : ahmad-reza-parsi-zadeh<br />
