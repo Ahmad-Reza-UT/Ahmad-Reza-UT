@@ -1,8 +1,9 @@
  Hi, I’m Ahmad Reza Parsi Zadeh.
- You can see a brief summary of my educcations and abilities below:
- - Cyberseucirty Intern at Rochester Institute of Technology and Bachelor Student of Computer Engineering at the university of Tehran.<br /> 
- - Penetration Tester, C/C++ and Python developer.<br />
- - Intreseted in DevSecOps, Machine Learning and Cryptoography.<br />
+I am a bachelor student of Computer Engineering at University of Tehran.
+
+I am highly interested in DevSecOps and Penetration Testing. Also, I am working as a IoT and AI Security Researcher and was working on Neuromorphic Computing Security and Semi-supervised Contextual Analysis of Security Events in IDSs and IPSs recently.
+
+C/C++ and Python Developer, interested in studying and acquiring various skills and eager for proper research positions, interested in teamwork and challenging tasks and adhere to ethical principles.
  You can contact with me via these links which are mentioned below :
  
   LinkedIn : ahmad-reza-parsi-zadeh<br />
